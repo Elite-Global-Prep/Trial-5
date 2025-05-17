@@ -7,6 +7,8 @@ import { Practice } from './component/Practice'
 import { ToastContainer, toast } from 'react-toastify';
 import Counter from './component/Counter'
 import { Posts } from './component/Posts'
+import StrongAppCloneNew from './component/StrongAppCloneNew'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,7 +20,8 @@ function App() {
     <>
       {/* <Posts />
       {/* <Counter /> */}
-      <StrongAppClone />
+      {/* <StrongAppClone /> */}
+      <StrongAppCloneNew />
       {/* <Practice /> */}
       {/* <button onClick={notify}>Submit form</button>
       <ToastContainer position="top-center" /> */} */}
