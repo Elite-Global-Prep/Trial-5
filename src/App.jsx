@@ -20,8 +20,8 @@ function App() {
     <>
       {/* <Posts />
       {/* <Counter /> */}
-      {/* <StrongAppClone /> */}
-      <StrongAppCloneNew />
+      <StrongAppClone />
+      {/* <StrongAppCloneNew /> */}
       {/* <Practice /> */}
       {/* <button onClick={notify}>Submit form</button>
       <ToastContainer position="top-center" /> */} */}
