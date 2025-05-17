@@ -16,12 +16,12 @@ function App() {
 
   return (
     <>
-      <Posts />
+      {/* <Posts />
       {/* <Counter /> */}
-      {/* <StrongAppClone /> */}
+      <StrongAppClone />
       {/* <Practice /> */}
       {/* <button onClick={notify}>Submit form</button>
-      <ToastContainer position="top-center" /> */}
+      <ToastContainer position="top-center" /> */} */}
 
     </>
   )
